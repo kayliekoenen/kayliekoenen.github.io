@@ -2,7 +2,7 @@
 
 I am currently a student at Texas State University. I decided to become a Business Marketing major at Texas State University.
 
-Here is a [link](https://www.linkedin.com/in/samantha-coyle-a038b414a/) to my linkedin account.
+Here is a [link](https://google.com) to my linkedin account.
 
 ### Contact
 
