@@ -20,7 +20,7 @@ Email: knk51@txstate.edu
 	
   GPA: 4.0
 
-	Dean's list Summer 2018
+  Dean's list Summer 2018
 
 ```
 
